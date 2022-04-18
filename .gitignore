@@ -6,6 +6,9 @@
 
 # Apache Maven
 /target
+/mvnw
+/mvnw.cmd
+/.mvn
 
 # BlueJ files
 *.ctxt
